@@ -5,4 +5,4 @@ An extension allows you to create in Unity array of objects on the basis of the 
 
 # How to use
 
-Clone the repo and you would find the unitypackage inside the asset folder along with the source code th package contains
+Clone the repo and you would find the ArrayModifier.unitypackage inside the package folder and the source code which the package contains inside the source folder
